@@ -14,7 +14,7 @@ A simple and responsive CGPA Calculator built using HTML, CSS, and JavaScript.
 
 ### 1. Entering Number of Semesters
 
-Displays the input field where users can enter the number of semesters.
+![image_alt](https://github.com/navyavarikuti/CGPA_Calculator/blob/8d398cad48c8825e5c8fffedb3fdd20bf044fe10/HomePage.png)
 
 ### 2. Dynamic SGPA Fields
 
