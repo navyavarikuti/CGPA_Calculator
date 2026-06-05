@@ -22,7 +22,7 @@ A simple and responsive CGPA Calculator built using HTML, CSS, and JavaScript.
 
 ### 3. CGPA Calculation
 
-Calculates and displays the CGPA after entering SGPA values.
+![image_alt](https://github.com/navyavarikuti/CGPA_Calculator/blob/042ab5b064df97fba5cf761eff87298b2a71b76b/CGPAResult.png)
 
 ### 4. Validation Alert
 
