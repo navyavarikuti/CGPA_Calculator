@@ -26,7 +26,7 @@ A simple and responsive CGPA Calculator built using HTML, CSS, and JavaScript.
 
 ### 4. Validation Alert
 
-Shows an alert message when invalid or incomplete data is entered.
+![image_alt](https://github.com/navyavarikuti/CGPA_Calculator/blob/b5477af8e9abfe0c3eb387d6548296d8dbf9db76/InvalidInput.png)
 
 ## Technologies Used
 
